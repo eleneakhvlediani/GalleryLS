@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'GalleryLS/Classes/**/*'
+  s.source_files = 'GalleryLS/Classes/**'
   
   # s.resource_bundles = {
   #   'GalleryLS' => ['GalleryLS/Assets/*.png']
