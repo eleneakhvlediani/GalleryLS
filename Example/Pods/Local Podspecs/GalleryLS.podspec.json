@@ -1,0 +1,22 @@
+{
+  "name": "GalleryLS",
+  "version": "0.1.0",
+  "summary": "A short description of GalleryLS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Elene Akhvlediani/GalleryLS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Elene Akhvlediani": "eakhv11@freeuni.edu.ge"
+  },
+  "source": {
+    "git": "https://github.com/Elene Akhvlediani/GalleryLS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GalleryLS/Classes/**/*"
+}

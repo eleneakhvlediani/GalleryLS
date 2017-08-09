@@ -2,5 +2,4 @@ use_frameworks!
 target 'GalleryLS_Tests' do
   pod 'GalleryLS', :path => '../'
   
-  
 end

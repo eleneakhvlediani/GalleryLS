@@ -7,13 +7,14 @@
 //
 
 import UIKit
+import GalleryLS
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        var p = INSPhotosViewController(photos: [INSPhoto])
+        // Do any additional setup a    fter loading the view.
     }
 
     override func didReceiveMemoryWarning() {

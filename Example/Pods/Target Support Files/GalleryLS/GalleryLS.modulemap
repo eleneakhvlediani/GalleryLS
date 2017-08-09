@@ -1,0 +1,6 @@
+framework module GalleryLS {
+  umbrella header "GalleryLS-umbrella.h"
+
+  export *
+  module * { export * }
+}

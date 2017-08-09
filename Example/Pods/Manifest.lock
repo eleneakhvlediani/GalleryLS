@@ -1,0 +1,16 @@
+PODS:
+  - GalleryLS (0.1.0)
+
+DEPENDENCIES:
+  - GalleryLS (from `../`)
+
+EXTERNAL SOURCES:
+  GalleryLS:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GalleryLS: ead596efcebf8b38bdd6dccf1d8e92080a7a1ae1
+
+PODFILE CHECKSUM: 9d18d39192489368e5d42d8953bb6d29f54e49cd
+
+COCOAPODS: 1.3.0
